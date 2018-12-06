@@ -1,5 +1,6 @@
 {
   "name": "robotfriends",
+  "homepage": "https://christophemoreira.com/robotfriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
